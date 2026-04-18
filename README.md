@@ -15,8 +15,8 @@ Felhasznált eszközök:
 - 1 db nyomógomb,
 - kábelek
 
-Kapcsolási rajz:
-![Kapcsolási rajz](docs/kapcsolasi_rajz.png)
+A projekt megvalósítása:
+![Kapcsolási rajz](docs/elrendezes.png)
 PDF formátumban is elérhető:  
 docs/kapcsolasi_rajz.pdf
 
