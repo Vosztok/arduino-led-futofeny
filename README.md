@@ -17,6 +17,7 @@ Felhasznált eszközök:
 
 A projekt megvalósítása:
 ![Kapcsolási rajz](docs/elrendezes.png)
+
 PDF formátumban is elérhető:  
 docs/kapcsolasi_rajz.pdf
 
