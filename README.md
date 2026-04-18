@@ -3,6 +3,9 @@ Arduino led futófény
 Projekt leiras:
 Ez a projekt az Arduino unoval történő futófény megvalósítása.
 
+A projektem szimulációja itt elérhető:
+https://www.tinkercad.com/things/3gGAI4qLmQR-led-futofeny-megvalositasa-nyomogombos-sebessegvezerlessel
+
 Működés:
 - több LED-et vezérel,
 - oda-vissza mozgást valósít meg,
